@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto_Mapper_Calısması", "Auto_Mapper_Calısması\Auto_Mapper_Calısması.csproj", "{0109F992-7E07-4797-8E10-1463A59EC5DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto_Mapper_Calısması2", "Auto_Mapper_Calısması2\Auto_Mapper_Calısması2.csproj", "{2681B60D-8377-486B-9D97-C51E8ACD1362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0109F992-7E07-4797-8E10-1463A59EC5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0109F992-7E07-4797-8E10-1463A59EC5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0109F992-7E07-4797-8E10-1463A59EC5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0109F992-7E07-4797-8E10-1463A59EC5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2681B60D-8377-486B-9D97-C51E8ACD1362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2681B60D-8377-486B-9D97-C51E8ACD1362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2681B60D-8377-486B-9D97-C51E8ACD1362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2681B60D-8377-486B-9D97-C51E8ACD1362}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECC285A6-8311-4B24-8C67-A9F82246AE01}
+	EndGlobalSection
+EndGlobal
